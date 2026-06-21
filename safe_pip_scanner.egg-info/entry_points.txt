@@ -1,0 +1,2 @@
+[console_scripts]
+safe-pip = safe_pip.cli:main

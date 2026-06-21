@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+safe_pip/__init__.py
+safe_pip/__main__.py
+safe_pip/cli.py
+safe_pip/scanner.py
+safe_pip/watch.py
+safe_pip_scanner.egg-info/PKG-INFO
+safe_pip_scanner.egg-info/SOURCES.txt
+safe_pip_scanner.egg-info/dependency_links.txt
+safe_pip_scanner.egg-info/entry_points.txt
+safe_pip_scanner.egg-info/requires.txt
+safe_pip_scanner.egg-info/top_level.txt
+tests/test_v11.py
