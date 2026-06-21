@@ -1,4 +1,4 @@
-# safe-pip v1.0.0
+# safe-pip v1.1.0
 
 AI-powered Python package security scanner.
 
